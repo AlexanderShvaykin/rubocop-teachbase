@@ -1,4 +1,6 @@
-# Rubocop::Teachbase
+![Ruby](https://github.com/AlexanderShvaykin/rubocop-teachbase/workflows/Ruby/badge.svg?branch=master)
+
+# RuboCop::Teachbase
 
 ## Installation
 
